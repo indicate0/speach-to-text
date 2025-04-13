@@ -1,2 +1,2 @@
 # speech to text  
-see the sub dir different models
+see the sub dir for different models
