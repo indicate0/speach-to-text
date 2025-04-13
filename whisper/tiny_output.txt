@@ -1,0 +1,4 @@
+Total time taken (in sec): 8.893749
+Detected language: ur
+result:
+I am in Namaskar and I am in Vietnam. What? I am in Vietnam. I am in the Rana and I am not in English. I am not in English. I am in the same language as I am in English. But I am unable to speak. So that's why I am only try to speak Hindi. I am very hungry today.

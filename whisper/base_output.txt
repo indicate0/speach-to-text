@@ -1,0 +1,4 @@
+Total time taken (in sec): 17.051859
+Detected language: ur
+result:
+Hello, my name is Deepak and I am sitting right now. What? I am sitting right now, I am going to the wrong place with Patel. I don't know English. I am just forcing me to speak English but I am unable to speak. So that's why I am only trying to speak Hindi. That's all for today.

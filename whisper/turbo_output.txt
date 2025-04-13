@@ -1,0 +1,4 @@
+Total time taken (in sec): 385.248817
+Detected language: hi
+result:
+foreign hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi

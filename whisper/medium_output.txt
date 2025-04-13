@@ -1,0 +1,4 @@
+Total time taken (in sec): 172.282219
+Detected language: hi
+result:
+Hello, my name is Deepak and I am sitting with Devendra Rana and Ankit Patel. I don't know English. Ankit is forcing me to speak in English but I am unable to speak. That's why I am only trying to speak in Hindi. That's enough for today.

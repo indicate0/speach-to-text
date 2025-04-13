@@ -1,0 +1,4 @@
+Total time taken (in sec): 444.229589
+Detected language: hi
+result:
+Namaskar, my name is Deepak and right now I am sitting with Devendra Rana and Ankit Patel. I don't know English. Ankit is forcing me to speak in English but I am unable to speak. So that's why I am only trying to speak in Hindi. That's it for today.
